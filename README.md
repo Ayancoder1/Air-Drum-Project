@@ -64,7 +64,7 @@ Air-Drum-Project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-
+https://github.com/Ayancoder1/Air-Drum-Project/blob/main/Air_Drum_Project.ino
 ```
 
 ### 2️⃣ Open in Arduino IDE
@@ -93,13 +93,7 @@ Air-Drum-Project/
 ---
 
 ## 🎥 **Demo**
-
-👉 Add your demo video here
-
-```bash
-Example:
 will be uploaded
-```
 
 ---
 
