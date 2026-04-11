@@ -135,11 +135,3 @@ This project is licensed under the **MIT License**.
 ## ⭐ **Support**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub — it helps others discover it.
-
-If you want, I can next:
-
-* Add **cool README visuals (GIFs + banners)**
-* Create a **top 1% GitHub portfolio version**
-* Write a **LinkedIn + resume description for this project**
-
-Just tell me 👍
